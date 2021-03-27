@@ -1,8 +1,13 @@
-## HEY THERE 
-[![Header](https://github.com/azat71/azat71/blob/main/bio/photo_2021-03-27_21-14-37.jpg)]()
-## I'm Begginer Python Developer! <img src="https://django-ninja.rest-framework.com/img/logo-big.png" width="30" height="40"></a>
+# ### Hi, I'm Azat 👋
 
-![](https://media4.giphy.com/media/52qtwCtj9OLTi/giphy.gif?cid=ecf05e47ln34avbk35p4oia6q5y46irz0qu4i1n848yd7y40&rid=giphy.gif)
+## I am a Begginer Python Backend Developer Student :<img src="https://django-ninja.rest-framework.com/img/logo-big.png" width="30" height="40"></a>
+- 🔭 I’m currently working 
+- 🌱 I’m currently learning about **Python** 
+- ⚡ Fun fact: I like to Sports! [LIKE THIS] :view: :Wrestling: 
+
+
+
+
 
 ## Languages and Tools:
 <img align="left" alt="Python" width="29px" src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -17,8 +22,6 @@
 <img align="left" alt="GitHub" width="29px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-## My Statistics:
-![azat' Stats](https://github-readme-stats.vercel.app/api?username=azat71&show_icons=true&theme=buefy)
 
 
 
