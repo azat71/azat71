@@ -34,8 +34,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Colab</b></span><br>
-        <img height="64px" src="https:colab.research.google.com/img/colab_favicon_256px.png">
+        <span><b>Docker</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
     </tr>
     <tr valign="top">
