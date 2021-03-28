@@ -59,6 +59,7 @@
   </tbody>
 </table>
 
+# My Statistics:
 ![azat71' Stats](https://github-readme-stats.vercel.app/api?username=azat71&show_icons=true&theme=buefy)
 ![aza71' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azat71&hide=jupyter%20notebook&layout=compact)
 
