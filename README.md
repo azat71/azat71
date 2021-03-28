@@ -1,14 +1,4 @@
-# ### Hi, I'm Azat 👋
-
-## I am a Begginer Python Backend Developer Student :<img src="https://django-ninja.rest-framework.com/img/logo-big.png" width="30" height="40"></a>
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning about **Python** 
-- ⚡ Fun fact: I like to Sports! [LIKE THIS] :view: :Wrestling: 
-
-
-
-
-
+ 
 ## Languages and Tools:
 <img align="left" alt="Python" width="29px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="django" width="29px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
@@ -25,6 +15,6 @@
 
 
 
-
-
+<!--
+<img src="https://django-ninja.rest-framework.com/img/logo-big.png" width="30" height="40"></a>
 
