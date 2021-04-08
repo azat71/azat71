@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/azat71/azat71/main/bio/photo_2021-03-27_21-14-37.jpg)]()
+![](/header_.png)
  
  
   #  Languages and Tools:
