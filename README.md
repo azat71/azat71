@@ -22,9 +22,10 @@
         <span><b>VS code</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
           </td>
-      <td width="20%" align="center">
-        <span><b>Leetcode</b></span><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+      </td>
+       <td width="20%" align="center">
+        <span><b>Postman</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
         </tr>
           </td>
     <tr valign="top">
@@ -66,11 +67,10 @@
       <td width="20%" align="center">
         <span><b>GitHub</b></span><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-      </td>
-       <td width="20%" align="center">
-        <span><b>Postman</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
-      </td>
+         <td width="20%" align="center">
+        <span><b>Leetcode</b></span><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> </td>
+      
     </tr>
   </tbody>
 </table>
