@@ -21,7 +21,12 @@
       <td width="25%" align="center">
         <span><b>VS code</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-       </tr>
+          </td>
+      <td width="25%" align="center">
+        <span><b>Leetcode</b></span><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png">
+        </tr>
+          </td>
     <tr valign="top">
       <td width="25%" align="center">
         <span><b>HTML</b></span><br>
@@ -38,6 +43,11 @@
       <td width="25%" align="center">
         <span><b>Docker</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+            </td>
+       <td width="25%" align="center">
+        <span><b>Rest API</b></span><br>
+        <img height="64px" src="https://en.proft.me/media/android/android_retrofit_icon.png">
       </td>
     </tr>
     <tr valign="top">
@@ -56,6 +66,10 @@
       <td width="25%" align="center">
         <span><b>GitHub</b></span><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+      </td>
+       <td width="25%" align="center">
+        <span><b>Postman</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
     </tr>
   </tbody>
