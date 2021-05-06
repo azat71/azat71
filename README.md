@@ -1,6 +1,6 @@
 ![](/header_.png)
  
- 
+
   #  Languages and Tools:
 <table>
   <tbody>
@@ -70,8 +70,6 @@
          <td width="20%" align="center">
         <span><b>Leetcode</b></span><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> </td>
-      
-    </tr>
   </tbody>
 </table>
 
