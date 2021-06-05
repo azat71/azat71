@@ -6,70 +6,80 @@
   <tbody>
     <tr valign="top">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>Python</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>Django</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>Pycharm</b></span><br>
-        <img height="64px" src="https://tehnichka.pro/wp-content/uploads/2019/09/pycharm_logo.svg.png">
+        <img height="60px" src="https://tehnichka.pro/wp-content/uploads/2019/09/pycharm_logo.svg.png">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>VS code</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
           </td>
-      </td>
-       <td width="20%" align="center">
+       <td width="16.6%" align="center">
         <span><b>Postman</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
-        </tr>
-          </td>
+            <td width="16.6%" align="center">
+        <span><b>Swagger</b></span><br>
+        <img height="64px" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png">
+       </td> 
+       </tr>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>HTML</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>PostgreSQL</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>MySQl</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>Docker</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
             </td>
-       <td width="20%" align="center">
+       <td width="16.6%" align="center">
         <span><b>Rest API</b></span><br>
         <img height="64px" src="https://en.proft.me/media/android/android_retrofit_icon.png">
       </td>
+               <td width="16.6%" align="center">
+        <span><b>Heroku</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">
+      </td>
     </tr>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>Linux</b></span><br>
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>Ubuntu</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>Terminal</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="16.6%" align="center">
         <span><b>GitHub</b></span><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-         <td width="20%" align="center">
+         <td width="16.6%" align="center">
         <span><b>Leetcode</b></span><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> </td>
+              <td width="16.6%" align="center">
+        <span><b>Ngnix</b></span><br>
+        <img height="64px" src="https://camo.githubusercontent.com/6e9f3840e93aa25e8982c5b377f88e91aec0af5c/68747470733a2f2f63646e2e6f70656e6272696467652e636f6d2f6173736574732f696d616765732f6f70656e6272696467652d6e67696e782d736d616c6c2e706e67">
+      </td>
   </tbody>
 </table>
 
