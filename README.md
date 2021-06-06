@@ -83,12 +83,41 @@
   </tbody>
 </table>
 
+
 # My Statistics:
-![azat71' Stats](https://github-readme-stats.vercel.app/api?username=azat71&show_icons=true&theme=buefy)
-![aza71' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azat71&hide=jupyter%20notebook&layout=compact)
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=azat71&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="Ryanjiena's github stats"  width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azat71&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" alt="Ryanjiena's github top-langs" width="42%" />
+</p>
 
+ **Night** 
 
+```text
+Morning    3 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+Daytime    12 commits    ██████░░░░░░░░░░░░░░░░░░░   26.8% 
+Evening    7 commits     ████████████░░░░░░░░░░░░░   49.1% 
+Night      8 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.12%
 
-<!--
-<img src="https://django-ninja.rest-framework.com/img/logo-big.png" width="30" height="40"></a>
+```
+ **I'm Most Productive on Sunday** 
 
+```text
+Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+Tuesday      9 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Wednesday    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
+Thursday     7 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Friday       4 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+Saturday     2 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+Sunday       17 commits    █████░░░░░░░░░░░░░░░░░░░░   23.42%
+
+```
+
+**I Mostly Code in Pyhton** 
+
+```text
+Python               12 repos            ██████████████████░░░░░░░  60.44% 
+HTML                 3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+CSS                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript           1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+MySQL                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+```
