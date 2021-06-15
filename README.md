@@ -84,6 +84,14 @@
 </table>
 
 
+
+
+
+## Find me around the web : <a href="https://github.com/sponsors/azat71"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<!-- - My website <a href="https://www.monica.dev">monica.dev</a> 📹  -->
+- Write in <a href="https://t.me/temirovazat"> Telegram</a> ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/azatbek-temirov-601890210/">LinkedIn</a> 💼
+
 # My Statistics:
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=azat71&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,&theme=graywhite" alt="Azat's github Statistics"  width="50%"/>
@@ -123,3 +131,4 @@ MySQL                1 repo              ██░░░░░░░░░░░
 ```
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=azat71&theme=0&column=6&margin-w=15&margin-h=15&count_private=true)
+
