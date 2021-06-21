@@ -89,7 +89,7 @@
 
 ## Find me around the web : <a href="https://github.com/sponsors/azat71"><img align="left" width="150" height="150" src="https://github.com/azat71/azat71/blob/main/gitok.png?raw=true"></a>
 <!-- - My website <a href="https://www.monica.dev">monica.dev</a> 📹  -->
-- Write in <a href="https://t.me/temirovazat"> Telegram</a> ✍🏾
+- Write in <a href="https://t.me/temirovazat"> Telegram</a> ✍🏻
 - Sharing updates on <a href="https://www.linkedin.com/in/azatbek-temirov-601890210/">LinkedIn</a> 💼
 
 
