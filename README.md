@@ -132,5 +132,5 @@ JavaScript           1 repo              ██░░░░░░░░░░░
 MySQL                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 ```
 
-![trophy](https://github-profile-trophy.vercel.app/?username=azat71&theme=0&column=6&margin-w=15&margin-h=15&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=temirovazat&theme=0&column=6&margin-w=15&margin-h=15&count_private=true)
 
