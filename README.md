@@ -77,7 +77,7 @@
         <span><b>Leetcode</b></span><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"> </td>
               <td width="16.6%" align="center">
-        <span><b>Ngnix</b></span><br>
+        <span><b>Nginx</b></span><br>
         <img height="64px" src="https://camo.githubusercontent.com/6e9f3840e93aa25e8982c5b377f88e91aec0af5c/68747470733a2f2f63646e2e6f70656e6272696467652e636f6d2f6173736574732f696d616765732f6f70656e6272696467652d6e67696e782d736d616c6c2e706e67">
       </td>
   </tbody>
