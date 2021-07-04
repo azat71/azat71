@@ -100,7 +100,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirovazat&layout=compact&bg_color=0,&theme=graywhite" alt="Azat's github top-langs" width="42%" />
 </p>
 
- **Night** 
+ <!-- **Night** 
 
 ```text
 Morning    3 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
@@ -130,7 +130,7 @@ HTML                 3 repos             ████████░░░░░
 CSS                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 JavaScript           1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 MySQL                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-```
+``` -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=temirovazat&theme=0&column=6&margin-w=15&margin-h=15&count_private=true)
 
