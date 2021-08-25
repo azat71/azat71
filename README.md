@@ -1,15 +1,17 @@
-<img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/blob/main/code.gif?raw=true" width="200" height="295.5" />
+<img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/blob/main/code.gif?raw=true" width="345" height="238.5" />
 
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Mongodb](https://img.shields.io/badge/-Mongo-FCA121?style=flat-square&logo=mongodb)
 ![redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=redis)
+
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
@@ -19,6 +21,8 @@
 ![Git](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Pycharm](https://img.shields.io/badge/-Pycharm-267349?style=flat-square&logo=Pycharm)
+![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
 
   <!-- #  Languages and Tools:
