@@ -1,6 +1,27 @@
-<img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/blob/main/code.gif?raw=true" width="5500" height="250" />
+<img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/blob/main/code.gif?raw=true" width="200" height="295.5" />
 
-  #  Languages and Tools:
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Mongodb](https://img.shields.io/badge/-Mongo-FCA121?style=flat-square&logo=mongodb)
+![redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=redis)
+**Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nninx-0aad48?style=flat-square&logo=nginx)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-262626?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+
+  <!-- #  Languages and Tools:
 <table>
   <tbody>
     <tr valign="top">
@@ -80,7 +101,7 @@
         <img height="64px" src="https://camo.githubusercontent.com/6e9f3840e93aa25e8982c5b377f88e91aec0af5c/68747470733a2f2f63646e2e6f70656e6272696467652e636f6d2f6173736574732f696d616765732f6f70656e6272696467652d6e67696e782d736d616c6c2e706e67">
       </td>
   </tbody>
-</table>
+</table> -->
 
 
 
