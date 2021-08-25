@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/code.gif?raw=true" width="6500" height="150" />
+<img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/blob/main/code.gif?raw=true" width="5500" height="150" />
 
   #  Languages and Tools:
 <table>
