@@ -120,10 +120,11 @@
 
 # My Statistics:
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=temirovazat&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,&theme=graywhite" alt="Azat's github Statistics"  width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirovazat&layout=compact&bg_color=0,&theme=graywhite" alt="Azat's github top-langs" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=temirovazat&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,&theme=graywhite" alt="Azat's github Statistics"  width="49.5%"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirovazat&layout=compact&bg_color=0,&theme=graywhite" alt="Azat's github top-langs" width="42%" />
+</p> -->
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=temirovazat&layout=compact&bg_color=0,&theme=blue" alt="Azat's github top-langs" width="49.5%">
 </p>
-
  <!-- **Night** 
 
 ```text
